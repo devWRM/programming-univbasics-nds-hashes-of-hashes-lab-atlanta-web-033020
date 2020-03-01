@@ -51,7 +51,7 @@ def naming_system
                label: "Class"
              }
         }
-        
+
     }
 
 
